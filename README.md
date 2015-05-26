@@ -1,7 +1,7 @@
 # clover-next-black
 A clean theme for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [rEFInd Next Theme by sdbinwiiexe](http://www.deviantart.com/art/rEFInd-Next-Theme-407754566) and inspired by [rEFInd-Black by st-andrew](https://github.com/st-andrew/rEFInd-Black).
 
-![Screenshot of the theme](http://i.imgbox.com/kiU6dgQb.png)
+![Screenshot of the theme](http://i.imgbox.com/1CER9jT7.png)
 
 ## Installation
 Clone or download the ZIP of this repo to your Clover theme directory (usually in /EFI/CLOVER/themes, located on the EFI system partition). Then, edit your Clover config.plist to select the theme.
