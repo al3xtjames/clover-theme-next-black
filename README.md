@@ -1,4 +1,4 @@
-# clover-next-black
+# Clover Next Black
 A clean theme for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [rEFInd Next Theme by sdbinwiiexe](http://www.deviantart.com/art/rEFInd-Next-Theme-407754566) and inspired by [rEFInd-Black by st-andrew](https://github.com/st-andrew/rEFInd-Black).
 
 ![Screenshot of the theme](http://i.imgbox.com/1CER9jT7.png)
